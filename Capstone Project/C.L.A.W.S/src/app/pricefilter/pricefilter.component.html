@@ -1,0 +1,12 @@
+<div class="price-filter">
+    <h3>Price Filter</h3>
+    <form (ngSubmit)="applyFilter()">
+      <label for="minPrice">Min Price:</label>
+      <input type="number" id="minPrice" name="minPrice" [(ngModel)]="minPrice">
+      <br>
+      <label for="maxPrice">Max Price:</label>
+      <input type="number" id="maxPrice" name="maxPrice" [(ngModel)]="maxPrice">
+      <br>
+      <button type="submit">Apply</button>
+    </form>
+  </div>

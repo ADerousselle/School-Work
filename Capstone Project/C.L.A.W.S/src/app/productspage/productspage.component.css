@@ -1,0 +1,33 @@
+.spacer{
+    flex: .5 1 auto;
+}
+.header{
+    background-color: black;
+    color: white;
+}
+.Title{
+    background-color: #000000;
+    border-style: none;
+    color: white;
+}
+.subheader{
+    font-size: xx-large;
+}
+.labelHeader{
+    padding-left: 5px;
+    font-size: medium;
+}
+.Title:hover{
+    border-color: azure;
+    border-style: double;
+    border-radius: 10px;
+}
+.image{
+    width: 400px;
+    margin-right: 400px;
+    margin-left: 400px;
+    height: 400px;
+}
+.productInfo{
+    margin-left: 200px;
+}

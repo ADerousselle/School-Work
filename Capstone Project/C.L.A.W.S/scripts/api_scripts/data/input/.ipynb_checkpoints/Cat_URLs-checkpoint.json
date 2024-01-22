@@ -1,0 +1,69 @@
+{
+	"Categories": [
+		{
+			"PCLaptops": {
+				"Desktops": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat143400050013&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24pcmcat143400050013&type=page&usc=All%20Categories",
+
+				"Laptops": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat138500050001&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24pcmcat138500050001&type=page&usc=All%20Categories"
+			}
+		},
+
+		{
+			"Tablets": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat209000050008&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24pcmcat209000050008&type=page&usc=All%20Categories"
+		},
+
+		{
+			"Refridgerators": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat367400050001&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24pcmcat367400050001&type=page&usc=All%20Categories"
+		},
+
+		{
+			"Phones": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat1625163553254&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=pcmcat1625163553254_categoryid%24abcat0800000&type=page&usc=All%20Categories"
+		},
+
+		{
+			"Calculators": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0805001&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24abcat0805001&type=page&usc=All%20Categories"
+		},
+
+		{
+			"Headphones": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=pcmcat144700050004&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24pcmcat144700050004&type=page&usc=All%20Categories"
+		},
+
+		{
+			"Furniture": {
+				"Bedroom": "https://www.bestbuy.com/site/furniture-and-decor/bedroom/pcmcat272800050011.c?id=pcmcat272800050011",
+
+				"Entryway": "https://www.bestbuy.com/site/furniture-and-decor/entryway-furniture/pcmcat1597762271403.c?id=pcmcat1597762271403",
+
+				"HomeTheater": "https://www.bestbuy.com/site/furniture-and-decor/home-theater-furniture/pcmcat249700050007.c?id=pcmcat249700050007",
+
+				"KitchenDining": "https://www.bestbuy.com/site/furniture-and-decor/kitchen-and-dining-furniture/pcmcat748300655035.c?id=pcmcat748300655035",
+
+				"LivingRoom": "https://www.bestbuy.com/site/furniture-and-decor/living-room-furniture/pcmcat272800050000.c?id=pcmcat272800050000",
+
+				"Nursery": "https://www.bestbuy.com/site/baby-care/nursery-furniture/pcmcat1551377405196.c?id=pcmcat1551377405196",
+
+				"Office": "https://www.bestbuy.com/site/furniture-and-decor/office-furniture-storage/abcat0809000.c?id=abcat0809000",
+
+				"Patio": "https://www.bestbuy.com/site/outdoor-living/patio-furniture-decor/pcmcat179200050008.c?id=pcmcat179200050008",
+
+				"Gaming": "https://www.bestbuy.com/site/furniture-and-decor/gaming-furniture/pcmcat219100050010.c?id=pcmcat219100050010"
+			}
+		},
+
+		{
+			"FlashDrives": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0504010&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24abcat0504010&type=page&usc=All%20Categories"
+			},
+	
+		{
+			"Microphones": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0515041&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24abcat0515041&type=page&usc=All%20Categories"
+			},
+
+		{
+			"Televisions": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0101001&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24abcat0101001&type=page&usc=All%20Categories"
+			},
+		
+		{
+			"CoffeeMakers": "https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCategory=abcat0912005&id=pcat17071&iht=n&ks=960&list=y&qp=storepickupstores_facet%3DStore%20Availability%20-%20In%20Store%20Pickup~828&sc=Global&st=categoryid%24abcat0912005&type=page&usc=All%20Categories"
+			}
+	]
+}

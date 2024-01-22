@@ -1,0 +1,22 @@
+server {
+    listen 80;
+    server_name 147.26.102.120;
+    
+    #Redirect http to https
+    location / {
+        return 301 https://$host$request_uri;
+    }
+}
+
+server {
+	listen 443 ssl;
+	server_name 147.26.102.120;
+
+	ssl_certificate /etc/nginx/ssl/nginx.crt;
+	ssl_certificate_key /etc/nginx/ssl/nginx.key;
+	
+	location / {
+		root /home/workspace/Software-Engineering-Project-Course/src;
+		try_files $uri $uri/ /index.html;
+	}
+}

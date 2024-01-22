@@ -1,0 +1,32 @@
+<app-header></app-header>
+  <div>
+     <h3 class="productInfo">
+      {{printProduct()}}
+     </h3>
+    <img class="image" *ngFor="let image of this.product.product.images" [src]="image" alt="Product Image">
+       <h2 class="productInfo">{{this.product.offers.primary.currency_symbol + this.product.offers.primary.price}}</h2>
+       <h2 class="productInfo">
+          From:  {{this.product.offers.primary.seller.name}}
+       </h2>
+       <h2 class="productInfo">
+          Overall Rating: {{this.product.product.rating}}
+       </h2>
+       <h2 class="productInfo">
+          Total Ratings: {{this.product.product.ratings_total}}
+       </h2>
+       <h3 class="productInfo">In Stock: {{inStock()}} </h3>
+      <a href="{{this.product.product.link}}" class="productInfo">BUY NOW </a>
+  </div>
+
+  <div>
+   <!-- Similar Products -->
+   <h3>Similar Products</h3>
+   <ul>
+     <li *ngFor="let similarProduct of similarProducts">
+       <h4>{{ similarProduct.product.title }}</h4>
+       <img class="image" [src]="similarProduct.product.images" alt="{{ similarProduct.Name }}">
+       <p>Price: ${{ similarProduct.offers.primary.price }}</p>
+       <a href="{{ similarProduct.product.link }}">BUY NOW</a>
+     </li>
+   </ul>
+ </div>

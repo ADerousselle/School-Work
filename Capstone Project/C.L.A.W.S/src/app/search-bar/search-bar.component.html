@@ -1,0 +1,8 @@
+<div class="search-container">
+  <mat-form-field class="search-field" appearance="fill">
+    <input matInput placeholder="Search Products" [(ngModel)]="searchQuery" (input)="onSearch(searchQuery)">
+  </mat-form-field>
+  <button mat-icon-button aria-label="Search" (click)="submitSearch()" class="purple-button" routerLink="/results">
+    <mat-icon>search</mat-icon>
+  </button>
+</div>

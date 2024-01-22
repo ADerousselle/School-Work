@@ -1,0 +1,14 @@
+{
+    "Store": {
+      "Name": "Store Name",
+      "Coupon": [
+            {
+            "URL": "link",
+            "Start_Date": "yyyy-mm-dd",
+            "End_Date": "yyyy-mm-dd",
+            "Description": "coupon description",
+            "Product_Name": "if coupon tied to any product"
+            }
+      ]
+    }
+}
